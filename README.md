@@ -1,10 +1,14 @@
 # 💫 About Me:
 
-**Product Security Specialist** with 9+ years of doing the unglamorous but critical work of keeping things from getting hacked across Healthcare, Med-Tech, IT, and Aerospace. I design secure architectures, poke holes in systems with threat modeling and vulnerability assessments, then fix them before someone else finds them first.
+**Product Security Specialist | 9+ Years Protecting Healthcare, Med-Tech & Aerospace**
 
-Very familiar with the joy of regulatory compliance, yes FDA, HIPAA, NIST, we’ve met many times. Hands-on with SAST, SCA/SBOM using BlackDuck, Azure cloud security, and coordinating penetration tests so surprises only happen in movies.
+I do the unglamorous but critical work of ensuring complex systems stay secure. From designing resilient architectures to threat modeling and vulnerability assessments, my goal is simple: find the holes and fix them before someone else does.
 
-I spend a lot of time working with R&D teams to bake security into the development lifecycle instead of slapping it on at the end and pretending everything is fine, especially for large, complex healthcare systems.
+I have a deep history with regulatory landscapes—**FDA, HIPAA, and NIST** are my standard operating environments. I’m hands-on with the modern security stack (**SAST, SCA/SBOM, BlackDuck, Azure Cloud**) and experienced in coordinating penetration tests that yield results, not surprises.
+
+My philosophy? Security shouldn't be an afterthought. I partner with R&D teams to bake security into the development lifecycle from day one, ensuring that large-scale healthcare systems are secure by design, not by accident.
+
+Core Expertise: **Product Security • Compliance (CFR/HIPAA) • Threat Modeling • Identity Management • Vulnerability Lifecycle**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dipta-roy/) 
 
